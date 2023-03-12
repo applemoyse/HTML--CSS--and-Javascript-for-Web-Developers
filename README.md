@@ -18,4 +18,5 @@ Javascript Programming Code Practice with Immediately Invoked Function Expressio
 
 - **Module 5 Assignment**: https://mariacristinai.github.io/HTML-CSS-and-Javascript-for-Web-Developers/Mod5_solution/
 
-A website for a Chinese Restaurant, deployed as a Single-Page Application.
+A website for a Chinese Restaurant, deployed as a Single-Page Application.* 
+*March 2023 Update: Currently the remote resource "https://davids-restaurant.herokuapp.com/categories.json" is down, so the Chinese Restaurant website won't display in full as the API that is trying to access is unavailable.
